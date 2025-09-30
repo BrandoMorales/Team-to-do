@@ -39,4 +39,7 @@ El objetivo principal es practicar conceptos de React como **hooks, estados, con
 ---
 
 ## 📂 Estructura del proyecto
-.....
+..
+..
+..
+..
